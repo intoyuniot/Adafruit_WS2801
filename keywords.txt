@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ Adafruit_WS2801   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+show  KEYWORD2
+setPixelColor  KEYWORD2
+setPixelColor  KEYWORD2
+setPixelColor  KEYWORD2
+setPixelColorupdatePins  KEYWORD2
+updatePins  KEYWORD2
+updateLength  KEYWORD2
+updateOrder  KEYWORD2
+numPixels  KEYWORD2
+getPixelColor  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

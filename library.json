@@ -1,0 +1,17 @@
+{
+    "name": "Adafruit_WS2801",
+    "version": "1.0.0",
+    "keywords": "WS2801",
+    "description": "Adafruit WS2801 LED灯条驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_WS2801.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
